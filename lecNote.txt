@@ -39,3 +39,9 @@ git push origin master
 README file  ==> README.md ===> mark down language  ==> text ==> tag 
 gitignore 
 
+
+===============================> after push (link between local and remote)
+1- git add .                       
+2- git commit -m  "message"     =====> git commit -am "message"
+3- git push origin master
+
