@@ -11,6 +11,9 @@ style.css(untracked files) ==> git add FileName====> git commit -m "message"
                      <=========================
                      from Staging to working 
                      git reset                   
+                                                        
+                                                      <===========================
+                                                      git pull origin master
     ================================================================> 
     working to local (tracked file) ==> 1- add file 
                          2 - save modification
@@ -49,6 +52,14 @@ gitignore
 git clone https://github.com/ayaatadel/python_fayoum_q3.git
 ===============================================> 
 access on repo ===> collaborator (مساهم)
+
+
+=======================================================================>
+git status 
+git add .
+git commit -m "message "
+git pull origin master
+git push origin master
 
 
 
