@@ -45,3 +45,10 @@ gitignore
 2- git commit -m  "message"     =====> git commit -am "message"
 3- git push origin master
 
+=======================================> copy from repo 
+git clone https://github.com/ayaatadel/python_fayoum_q3.git
+===============================================> 
+access on repo ===> collaborator (مساهم)
+
+
+
