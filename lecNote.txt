@@ -35,5 +35,7 @@ commit of change 2 on commit of change 1 ===> git commit --amend
 
 git  remote add origin https://github.com/ayaatadel/python_fayoum_q3.git
 git push origin master 
-
+=======================================
+README file  ==> README.md ===> mark down language  ==> text ==> tag 
+gitignore 
 
