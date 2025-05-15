@@ -1,0 +1,10 @@
+initialization git ==========> git init  (local DB ==> GIT ===> .git)
+
+check status ==> git status
+
+Working Directory(PC)          Staging Area      Local DB (.git)
+
+create files(index.html)
+style.css(untracked files) ==> git add FileName====> git commit -m "message"
+ script.js               ==========>  git add .========>
+                    ==========> git add index.html style.css====>
