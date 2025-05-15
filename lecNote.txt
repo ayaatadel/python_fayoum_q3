@@ -2,11 +2,11 @@ initialization git ==========> git init  (local DB ==> GIT ===> .git)
 
 check status ==> git status
 
-Working Directory(PC)     |    Staging Area   |    Local DB (.git)
+Working Directory(PC)     |    Staging Area   |    Local DB (.git) | remote (github => server)
 
 create files(index.html)
-style.css(untracked files) ==> git add FileName====> git commit -m "message"
- script.js               ==========>  git add . ========>
+style.css(untracked files) ==> git add FileName====> git commit -m "message"  
+ script.js               ==========>  git add . ========>git commit fileName -m "message"
                     ==========> git add index.html style.css====>
                      <=========================
                      from Staging to working 
@@ -29,5 +29,11 @@ show all  commits ==> git log ===> commit_message , ID , author of commit
 change 1 ==> add commit
 change 2 related with change 1 ==> add commit 
 commit of change 2 on commit of change 1 ===> git commit --amend 
+
+
+=============================> remote repo (server : github)
+
+git  remote add origin https://github.com/ayaatadel/python_fayoum_q3.git
+git push origin master 
 
 
