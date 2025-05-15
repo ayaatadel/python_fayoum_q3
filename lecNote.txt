@@ -8,9 +8,18 @@ create files(index.html)
 style.css(untracked files) ==> git add FileName====> git commit -m "message"
  script.js               ==========>  git add . ========>
                     ==========> git add index.html style.css====>
+                     <=========================
+                     from Staging to working 
+                     git reset                   
     ================================================================> 
-    working to local ==> 1- add file 
+    working to local (tracked file) ==> 1- add file 
                          2 - save modification
 
                          git commit -a -m "message"               
-                         git commit -am "message"               
+                         git commit -am "message"   
+=========================================================
+ update ===> add  ==>  commit (Id) ==> sanpshot===> ID ==> Hash Number            
+
+show all  commits ==> git log ===> commit_message , ID , author of commit 
+   ===============> git log --oneline ==> commit_message  ==> ID of commit 
+
