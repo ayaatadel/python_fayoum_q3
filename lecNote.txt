@@ -23,3 +23,11 @@ style.css(untracked files) ==> git add FileName====> git commit -m "message"
 show all  commits ==> git log ===> commit_message , ID , author of commit 
    ===============> git log --oneline ==> commit_message  ==> ID of commit 
 
+
+
+===================================> 
+change 1 ==> add commit
+change 2 related with change 1 ==> add commit 
+commit of change 2 on commit of change 1 ===> git commit --amend 
+
+
