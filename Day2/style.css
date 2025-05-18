@@ -1,19 +1,21 @@
 img{
-    height: 70px;
-    width: 70px;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    height: 30px;
+    border-color: gray;
+    width: 30px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
 }
-li{
+li a{
+    background-color: aqua;
+}
+a{
     background-color: gray;
     display: flex;
 }
-li{
-    background-color: aqua;
-}
+
 p{
 
     color: rgb(129, 20, 20);
