@@ -1,15 +1,12 @@
 img{
     width: 70px;
     height: 70px;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+ text-align: center;
 }
 ul li{
     color: gray;
-    display: flex;
+    justify-content: space-around;
+    display: inline;
 }
 li{
     background-color: aqua;
