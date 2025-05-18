@@ -1,3 +1,12 @@
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
+document.writeln("hello")
 console.log("Day2");
 document.getElementsByClassName("card")[0];
 document.getElementsByTagName("p")[0]
