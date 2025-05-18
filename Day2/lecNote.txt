@@ -92,8 +92,15 @@ check confilts ====> solve  (commit merge)
  ====> change file ===>  navbar ==> add , commit (switch between branches)
  ===> slider ==> change
 add change to stash===>  git stash save
-git stash list
+
 
 ===============================>
+git stash list ===> show all stashes 
 git stash show  ===> stash list with all changes
 
+=================> 
+show hidden changes in code ==> git stash pop   ===> remove stash list
+show hidden changes in code ==> git stash apply   ===> stash still in stash list
+
+delete speccisif stash    ===> git stash drop id  stash@{0}
+remove all stashes ==> git stash clear
