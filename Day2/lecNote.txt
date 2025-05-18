@@ -91,7 +91,7 @@ check confilts ====> solve  (commit merge)
 
  ====> change file ===>  navbar ==> add , commit (switch between branches)
  ===> slider ==> change
-add change to stash===>  git stash save
+add change to stash===>  git stash save   ===> ID ==> 
 
 
 ===============================>
