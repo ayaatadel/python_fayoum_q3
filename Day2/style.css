@@ -1,4 +1,9 @@
 p{
-    color: red;
-    text-align: center;
+    background-color: rgb(129, 20, 20);
+    text-align: right;
+}
+li{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
 }
