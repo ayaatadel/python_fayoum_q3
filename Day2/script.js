@@ -1,30 +1,16 @@
-document.writeln("mmmmmmmmmmmmmmm");
+
 console.log("sdahdh");
 
-document.writeln("hello");
-console.log("test");
-console.log("test");
-console.log("test");
-console.log("test");
-
-document.writeln("test");
-document.writeln("test");
-document.writeln("test");
-document.writeln("nnnnnnnnnn");
 
 console.log("Day2");
 
 document.getElementsByTagName("p")[0];
 console.log("document");
-
+document.writeln("mmmmmmmmmmmmmmm");
 function sum(x, y) {
   console.log(z);
-  console.log(x + y);
-  console.log(z);
-  console.log(z);
-  console.log(z);
-  console.log(z);
-  console.log(z);
+  console.log("");
+ 
 }
 
 function test() {

@@ -1,20 +1,35 @@
 img{
+
     width: 70px;
     height: 70px;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+ text-align: center;
 }
 ul li{
     color: gray;
-    display: flex;
+    justify-content: space-around;
+    display: inline;
 }
 li{
+
+    height: 30px;
+    border-color: rgb(24, 37, 176);
+    width: 30px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+li a{
+
     background-color: aqua;
 }
-p{
+a{
+    background-color: gray;
+    display: flex;
+}
+
+li a{
 
     color: rgb(129, 20, 20);
     text-align: center;
