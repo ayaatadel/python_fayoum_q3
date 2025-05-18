@@ -32,3 +32,16 @@ loacal repo ===> git push origin navbar
 ==============================> 
 footer ==> navbar 
 footer (commits : navbar)
+
+===============================> 
+changes ===> navbar ====> 
+matser====> updates ====>      merge between branches  
+====================================================>
+merging ===========> navbar and master
+loacal ===> 
+git switch navbar
+git status   ==> add , commit 
+git merge master
+check confilts ==> solve
+commit -am "merge master in navbar"
+
