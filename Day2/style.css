@@ -1,4 +1,16 @@
 img{
+
+    width: 70px;
+    height: 70px;
+ text-align: center;
+}
+ul li{
+    color: gray;
+    justify-content: space-around;
+    display: inline;
+}
+li{
+
     height: 30px;
     border-color: rgb(24, 37, 176);
     width: 30px;
@@ -9,6 +21,7 @@ img{
     -o-border-radius: 7px;
 }
 li a{
+
     background-color: aqua;
 }
 a{
