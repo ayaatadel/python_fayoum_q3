@@ -76,4 +76,11 @@ git pull origin master
 check confilts ====> solve  (commit merge)
 
 
- 
+ ================================================>
+ pull request from github  ==>pull master in scrpit
+ ===> 
+ 1- pull request
+ 2-create pull request
+ 3 base(your branch ===> put all things in it (script))  , compare (master)
+ ====> able to merge ===> no conflicts 
+ =====> error , can't merge ===> confilt ==> solve conflict

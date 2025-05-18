@@ -2,9 +2,18 @@ ul li{
     color: gray;
 }
 p{
-    font-size: medium;
+
+    background-color: rgb(129, 20, 20);
+    text-align: right;
+     font-size: medium;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
 }
 a{
     text-decoration: none;
+
 }
