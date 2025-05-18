@@ -20,11 +20,11 @@ console.log("document");
 function sum(x, y) {
   console.log(z);
   console.log(x + y);
-  console.log(w);
-  console.log(w);
-  console.log(w);
-  console.log(w);
-  console.log(w);
+  console.log(z);
+  console.log(z);
+  console.log(z);
+  console.log(z);
+  console.log(z);
 }
 
 function test() {
