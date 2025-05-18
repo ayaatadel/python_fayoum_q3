@@ -64,3 +64,16 @@ rofida   ====> navbar      ===> create nameOfFeature ====> pc ===> push
 mazen   ====> slider
 abdelhameed ====> cards 
 emad  =======> footer
+
+===================================================
+rofida ===>
+local :  ====> merge reemote branch  with local branch ====> 
+git status ==> add , commit 
+git pull remotebranch(script)
+check confilts ====> solve  (commit merge)
+
+git pull origin master 
+check confilts ====> solve  (commit merge)
+
+
+ 
