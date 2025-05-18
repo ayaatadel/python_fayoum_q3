@@ -1,0 +1,22 @@
+Abdalhameed Ahmed Abdalhameed   ===> navbar/listItems   ==> ul ==> listItems (about , contac)
+Bahaa Eldien Zahi Abdalmaged   ===>   slider/imgs ===> section ==> class :slider ==> 3 img 
+emad sayed ali shaaban           ==>  content/cards ==> section : class card ==> img , p
+lamia mohamed abdelaziz ashry    ==> content ==> video ==> section  video
+Mazen Ahmed Mohamed Fahim        ==>navbar/search   ==> ul ==> listItems (search )
+Mohamed Abdrabou Abo Bakr Abdrabou   ==> footer/socialPhones icons ==>  telphone ==> ul==>li ==> 2phone numbers 
+Mohamed Mohsen rashad mohamed ====>content ==> videoText ==> section  video , p : text
+Naira Mohamed Mokhtar  =====> slider/text ===> section ==> class :slider ==> 2 img  ==> p 
+Reham Bakri Ahmed Saad =====>about/img===> img : text
+Rofaida Abdelnasser Abdelfatah ==> content/cardsButtons ==> section : class card ==>span (price) img , p ,button 
+Shereen Saaban hussein  ==> about/Text===> img under (p) / text : phone numbers
+Shrouk Khamis Ahmed   =======> footer/social icons ==>  fontawoem ==> icons (facebook, instegram) 
+
+==============================> index.html
+order 
+navbar
+slider
+content/cards
+about
+footer
+=============================> 
+merge master in your branch

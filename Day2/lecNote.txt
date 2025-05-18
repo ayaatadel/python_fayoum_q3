@@ -1,0 +1,111 @@
+1- Branches
+  create 
+  switch 
+  delete Branches
+  merge 
+
+  2- staging 
+  3- pull request 
+
+  ========================================
+  master ==> Branch ==> code    ===========> Collect 
+  main ===> Branches 
+
+  =================>
+  branches ===>> take version from code ==> commits
+  feateure ===> create new brach 
+  fix bug  ===> create new brach 
+
+  header ===> pointer ===> branch 
+  create new branch  ==> take commits , changes on this branch 
+====================================>
+create branch ==> git branch branchName
+list all branches -==> git branch 
+switch from master to navbar  ==> git switch navbar
+
+
+navbar ===> master ====> commits (master )==> navbar
+update ==> navbar ====> navbar
+update ==> master ====> master
+===================================>
+loacal repo ===> git push origin navbar
+==============================> 
+footer ==> navbar 
+footer (commits : navbar)
+
+===============================> 
+changes ===> navbar ====> 
+matser====> updates ====>      merge between branches  
+====================================================> local
+merging ===========> navbar and master
+loacal ===> 
+git switch navbar
+git status   ==> add , commit 
+git merge master
+check confilts ==> solve
+git stastus
+commit -am "merge master in navbar"
+===================================>
+git switch master
+git status
+add , commit 
+git merge navbar
+git status
+add , commit
+===========================> remove branch 
+1- on any other branch 
+2- git branch -d test    ====> local 
+
+2- remove ====> remote 
+git push origin -d branchName (navbar)
+=====================================================> merge remote
+master ===> structure file ===> merge all branches 
+rofida   ====> navbar      ===> create nameOfFeature ====> pc ===> push
+mazen   ====> slider
+abdelhameed ====> cards 
+emad  =======> footer
+
+===================================================
+rofida ===>
+local :  ====> merge reemote branch  with local branch ====> 
+git status ==> add , commit 
+git pull remotebranch(script)
+check confilts ====> solve  (commit merge)
+
+git pull origin master 
+check confilts ====> solve  (commit merge)
+
+
+ ================================================>
+ pull request from github  ==>pull master in scrpit
+ ===> 
+ 1- pull request
+ 2-create pull request
+ 3 base(your branch ===> put all things in it (script))  , compare (master)
+ ====> able to merge ===> no conflicts 
+ =====> error , can't merge ===> confilt ==> solve conflict
+
+ =================================
+   
+ stashing  ==> interview  ===> id 
+
+ ====> change file ===>  navbar ==> add , commit (switch between branches)
+ ===> slider ==> change
+add change to stash===>  git stash save   ===> ID ==> 
+
+
+===============================>
+git stash list ===> show all stashes 
+git stash show  ===> stash list with all changes
+
+=================> 
+show hidden changes in code ==> git stash pop   ===> remove stash list
+show hidden changes in code ==> git stash apply   ===> stash still in stash list
+
+
+
+=================================================>
+^ ==> one step  , ^^==> two commits
+commit ===> delete commit ===> save change (git reset --soft Head^)  ====> working directory 
+commit ===> delete commit ===> delete chane ==>(git reset --hard Head^)  
+
