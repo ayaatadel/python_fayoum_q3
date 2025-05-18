@@ -104,9 +104,8 @@ show hidden changes in code ==> git stash apply   ===> stash still in stash list
 
 
 
+=================================================>
+^ ==> one step  , ^^==> two commits
+commit ===> delete commit ===> save change (git reset --soft Head^)  ====> working directory 
+commit ===> delete commit ===> delete chane ==>(git reset --hard Head^)  
 
-
-====================> 
-change 2
-===========================> 
-change 1
