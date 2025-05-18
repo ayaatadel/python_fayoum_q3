@@ -43,5 +43,18 @@ git switch navbar
 git status   ==> add , commit 
 git merge master
 check confilts ==> solve
+git stastus
 commit -am "merge master in navbar"
+===================================>
+git switch master
+git status
+add , commit 
+git merge navbar
+git status
+add , commit
+===========================> remove branch 
+1- on any other branch 
+2- git branch -d test    ====> local 
 
+2- remove ====> remote 
+git push origin -d branchName (navbar)
