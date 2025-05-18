@@ -1,14 +1,14 @@
 img{
-    height: 70px;
     width: 70px;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    height: 70px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
-li{
-    background-color: gray;
+ul li{
+    color: gray;
     display: flex;
 }
 li{
