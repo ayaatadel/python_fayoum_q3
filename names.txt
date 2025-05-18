@@ -2,22 +2,14 @@
 2- Mazen Ahmed Mohamed Fahim
 3- reham bakri ahmed
 4- Abdalhameed Ahmed Abdalhameed 
-5- Mohamed Abdrabou Abo Bakr  
-<<<<<<< HEAD
-
-<<<<<<< HEAD
+5- Mohamed Abdrabou Abo Bakr
 6- shereen shaaban hussein
-=======
-6- Shrouk Khamis Ahmed 
->>>>>>> f013f839e98d6aac3b7a5181bf607b7bbabf3eee
-7-shereen shaaban hussein
+7- Shrouk Khamis Ahmed 
 8-bahaa eldien zahi
-=======
-6- Shrouk Khamis Ahmed 
-7-shereen shaaban hussein
-8-Rofaida Abdelnaser
-9-Mohamed Mohsen Rashad 
-10- Naira Mohamed Mokhtar
-11-lamia mohamed abdelaziz ashry
-12-Emad Sayed Ali Shaban
->>>>>>> b632632f63e8ab93e4f6c761fc777ec3ff4aeffc
+9-Rofaida Abdelnaser
+10-Mohamed Mohsen Rashad 
+11- Naira Mohamed Mokhtar
+12-lamia mohamed abdelaziz ashry
+13-Emad Sayed Ali Shaban
+
+
