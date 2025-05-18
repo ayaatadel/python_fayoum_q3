@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.6">
+  <diagram name="Page-1" id="25QlJ9H9q0o0jUQUy7rk">
+    <mxGraphModel dx="1044" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AOSDoG1ckG6fl6pBB187-1" value="master(strurcture)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-5" value="navbar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="10" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-8" value="footer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AOSDoG1ckG6fl6pBB187-9" target="AOSDoG1ckG6fl6pBB187-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-9" value="slider" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=19;endSize=8.34;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="90" as="sourcePoint" />
+            <mxPoint x="150" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-11" value="head" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AOSDoG1ckG6fl6pBB187-10">
+          <mxGeometry x="0.0727" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-12" value="rofida ==&amp;gt; nav bar&lt;br&gt;abd elhammed ==&amp;gt; footer&lt;br&gt;shereen ===&amp;gt;&amp;nbsp; slider&lt;br&gt;mohammed ===&amp;gt; animation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AOSDoG1ckG6fl6pBB187-8" target="AOSDoG1ckG6fl6pBB187-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Team===&amp;gt; collaborator&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="80" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27;endSize=9.28;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AOSDoG1ckG6fl6pBB187-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="80" as="sourcePoint" />
+            <mxPoint x="470" y="75" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-22" value="commits ===&amp;gt; master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AOSDoG1ckG6fl6pBB187-21">
+          <mxGeometry x="-0.2156" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=51;endSize=11.46;width=25;" edge="1" parent="1" source="AOSDoG1ckG6fl6pBB187-5" target="AOSDoG1ckG6fl6pBB187-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="120" as="sourcePoint" />
+            <mxPoint x="680" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AOSDoG1ckG6fl6pBB187-24" value="commits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AOSDoG1ckG6fl6pBB187-23">
+          <mxGeometry x="0.0187" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

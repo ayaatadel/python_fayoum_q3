@@ -1,0 +1,32 @@
+1- Branches
+  create 
+  switch 
+  delete Branches
+  merge 
+
+  2- staging 
+  3- pull request 
+
+  ========================================
+  master ==> Branch ==> code    ===========> Collect 
+  main ===> Branches 
+
+  =================>
+  branches ===>> take version from code ==> commits
+  feateure ===> create new brach 
+  fix bug  ===> create new brach 
+
+  header ===> pointer ===> branch 
+  create new branch  ==> take commits , changes on this branch 
+====================================>
+create branch ==> git branch branchName
+list all branches -==> git branch 
+switch from master to navbar  ==> git switch navbar
+
+
+navbar ===> master ====> commits (master )==> navbar
+update ==> navbar ====> navbar
+update ==> master ====> master
+==============================> 
+footer ==> navbar 
+footer (commits : navbar)
