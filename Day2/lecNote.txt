@@ -108,3 +108,5 @@ show hidden changes in code ==> git stash apply   ===> stash still in stash list
 
 ====================> 
 change 2
+===========================> 
+change 1
