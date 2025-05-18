@@ -27,6 +27,8 @@ switch from master to navbar  ==> git switch navbar
 navbar ===> master ====> commits (master )==> navbar
 update ==> navbar ====> navbar
 update ==> master ====> master
+===================================>
+loacal repo ===> git push origin navbar
 ==============================> 
 footer ==> navbar 
 footer (commits : navbar)
