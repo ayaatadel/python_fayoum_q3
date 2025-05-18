@@ -102,3 +102,9 @@ git stash show  ===> stash list with all changes
 show hidden changes in code ==> git stash pop   ===> remove stash list
 show hidden changes in code ==> git stash apply   ===> stash still in stash list
 
+
+
+
+
+====================> 
+change 2
