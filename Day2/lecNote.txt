@@ -52,3 +52,9 @@ add , commit
 git merge navbar
 git status
 add , commit
+===========================> remove branch 
+1- on any other branch 
+2- git branch -d test    ====> local 
+
+2- remove ====> remote 
+git push origin -d branchName (navbar)
