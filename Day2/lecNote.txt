@@ -84,3 +84,28 @@ check confilts ====> solve  (commit merge)
  3 base(your branch ===> put all things in it (script))  , compare (master)
  ====> able to merge ===> no conflicts 
  =====> error , can't merge ===> confilt ==> solve conflict
+
+ =================================
+   
+ stashing  ==> interview  ===> id 
+
+ ====> change file ===>  navbar ==> add , commit (switch between branches)
+ ===> slider ==> change
+add change to stash===>  git stash save   ===> ID ==> 
+
+
+===============================>
+git stash list ===> show all stashes 
+git stash show  ===> stash list with all changes
+
+=================> 
+show hidden changes in code ==> git stash pop   ===> remove stash list
+show hidden changes in code ==> git stash apply   ===> stash still in stash list
+
+
+
+=================================================>
+^ ==> one step  , ^^==> two commits
+commit ===> delete commit ===> save change (git reset --soft Head^)  ====> working directory 
+commit ===> delete commit ===> delete chane ==>(git reset --hard Head^)  
+
