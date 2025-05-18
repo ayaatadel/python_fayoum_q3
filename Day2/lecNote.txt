@@ -36,7 +36,7 @@ footer (commits : navbar)
 ===============================> 
 changes ===> navbar ====> 
 matser====> updates ====>      merge between branches  
-====================================================>
+====================================================> local
 merging ===========> navbar and master
 loacal ===> 
 git switch navbar
@@ -58,3 +58,29 @@ add , commit
 
 2- remove ====> remote 
 git push origin -d branchName (navbar)
+=====================================================> merge remote
+master ===> structure file ===> merge all branches 
+rofida   ====> navbar      ===> create nameOfFeature ====> pc ===> push
+mazen   ====> slider
+abdelhameed ====> cards 
+emad  =======> footer
+
+===================================================
+rofida ===>
+local :  ====> merge reemote branch  with local branch ====> 
+git status ==> add , commit 
+git pull remotebranch(script)
+check confilts ====> solve  (commit merge)
+
+git pull origin master 
+check confilts ====> solve  (commit merge)
+
+
+ ================================================>
+ pull request from github  ==>pull master in scrpit
+ ===> 
+ 1- pull request
+ 2-create pull request
+ 3 base(your branch ===> put all things in it (script))  , compare (master)
+ ====> able to merge ===> no conflicts 
+ =====> error , can't merge ===> confilt ==> solve conflict
